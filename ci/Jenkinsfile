@@ -1,2 +1,1 @@
-@Library("ci_functions") _
-python_build()
+python python_build.groovy
